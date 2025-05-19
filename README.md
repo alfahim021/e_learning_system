@@ -64,7 +64,7 @@ Place the project folder in your PHP server root directory (htdocs for XAMPP).
 Start your local server and visit:
 http://localhost/e_learning_system/index.php
 
-**Usage**
+Usage
 Register a new account or login with existing credentials.
 
 Browse courses and enroll.
@@ -73,25 +73,25 @@ Submit assignments and view submissions.
 
 Manage your profile.
 
-**Dependencies**
+Dependencies
 PHP 7.4 or higher
 
 MySQL / MariaDB
 
 A local development server like XAMPP, WAMP, or MAMP
 
-**Security Notes**
+Security Notes
 Passwords are hashed securely using PHP's password_hash().
 
 Prepared statements prevent SQL injection.
 
 Session management protects user authentication.
 
-**Contributing**
+Contributing
 Feel free to fork and submit pull requests. For bugs or feature requests, please open an issue.
 
-**License**
+License
 This project is open-source and free to use.
 
-**Contact**
+Contact
 For questions or help, email: alfahim021@gmail.com
